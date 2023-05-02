@@ -1,3 +1,3 @@
 # Reports
 
-Contains all reports for completed projects.
+Contains reports for completed projects.
